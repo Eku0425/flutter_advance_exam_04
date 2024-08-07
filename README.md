@@ -20,7 +20,7 @@ Save articles to read later, even without an internet connection. Perfect for st
 Navigate effortlessly through our sleek and intuitive design, making it easy to find and read the news that interests you.
 
 
-<img src="https://github.com/user-attachments/assets/b9c39128-be39-47c4-9b06-6bd32c8d5681" height =25% width =25%>
+<img src="https://github.com/user-attachments/assets/b9c39128-be39-47c4-9b06-6bd32c8d5681" height =25% width =25%> 
 <img src="(https://github.com/user-attachments/assets/f7977afb-263e-4103-bc30-d254c2a80816" height =25% width=25%>
 <img src="https://github.com/user-attachments/assets/846f55c6-9f51-46f7-8d2f-bca86ed08129" heigth=25% width=25%>
 <img src="https://github.com/user-attachments/assets/ecde2569-665c-4829-9265-4a1cdcd2b411"height=25% width=25%>
